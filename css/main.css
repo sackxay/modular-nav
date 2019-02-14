@@ -30,6 +30,10 @@ nav {
   text-align: center;
 }
 
+li {
+  display: inline-block;
+}
+
 a {
   color: #0074d9;
   text-decoration: none;
